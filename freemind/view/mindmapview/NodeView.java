@@ -899,7 +899,8 @@ public class NodeView extends JComponent implements TreeModelListener {
 					break;
 				}
 			}
-			isLong = widthMustBeRestricted || lines.length > 1;
+			// isLong = widthMustBeRestricted || lines.length > 1;
+			isLong = false;
 		}
 
 		if (isHtml) {
