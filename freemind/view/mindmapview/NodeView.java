@@ -935,7 +935,9 @@ public class NodeView extends JComponent implements TreeModelListener {
 				// width without actually checking it.
 				// The purpose of that is to speed up rendering of very long
 				// nodes.
-				setText(nodeText);
+				// System.out.println("nodeText : 1 : "+nodeText);
+				String updatedNodeText = nodeText.replaceAll("<p>", "<p min-width=\"200\" width=\"200\">");
+				setText(updatedNodeText);
 				widthMustBeRestricted = mainView.getPreferredSize().width > map
 						.getZoomed(map.getMaxNodeWidth())
 						+ mainView.getIconWidth();
@@ -947,7 +949,10 @@ public class NodeView extends JComponent implements TreeModelListener {
 				nodeText = nodeText.replaceFirst("(?i)<body>", "<body width=\""
 						+ map.getMaxNodeWidth() + "\">");
 			}
-			setText(nodeText);
+			String updatedNodeText = nodeText.replaceAll("<p>", "<p min-width=\"200\" width=\"200\">");
+
+			// System.out.println("nodeText : 2 : "+nodeText);
+			setText(updatedNodeText);
 		} else if (nodeText.startsWith("<table>")) {
 			String[] lines = nodeText.split("\n");
 			lines[0] = lines[0].substring(7); // remove <table> tag
@@ -961,6 +966,7 @@ public class NodeView extends JComponent implements TreeModelListener {
 						+ HtmlTools.toXMLEscapedText(lines[line]).replaceAll(
 								"\t", "<td style=\"border-color: white\">");
 			}
+			System.out.println("nodeText : 3 : "+text);
 			setText(text);
 		} else if (isLong) {
 			String text = HtmlTools.plainToHTML(nodeText);
@@ -968,9 +974,11 @@ public class NodeView extends JComponent implements TreeModelListener {
 				text = text.replaceFirst("(?i)<p>",
 						"<p width=\"" + map.getMaxNodeWidth() + "\">");
 			}
+			System.out.println("nodeText : 4 : "+text);
 			setText(text);
 		} else {
-			setText(nodeText);
+			// System.out.println("nodeText : 5 : "+nodeText);
+			setText("<html><head></head><body><p min-width=\"200\" width=\"200\">"+nodeText+"</p></body></html>");
 		}
 	}
 
