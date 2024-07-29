@@ -979,7 +979,13 @@ public class NodeView extends JComponent implements TreeModelListener {
 			setText(text);
 		} else {
 			// System.out.println("nodeText : 5 : "+nodeText);
-			setText("<html><head></head><body><p min-width=\"200\" width=\"200\">"+nodeText+"</p></body></html>");
+			System.out.println("getModel() : 5 : "+getModel());
+			System.out.println("model() : 5 : "+model);
+			if(getModel().isDescendantOfOrEqual(model)){
+				setText("<html><head></head><body><p min-width=\"200\" width=\"200\">"+nodeText+"</p></body></html>");
+			}else{
+				setText("<html><head></head><body><p min-width=\"200\" width=\"200\">"+nodeText+"</p></body></html>");
+			}
 		}
 	}
 
