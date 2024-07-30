@@ -1,22 +1,35 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1722162306540" ID="ID_1237619857" MODIFIED="1722162306540" TEXT="New Mindmap">
-<node CREATED="1722162308514" ID="ID_94768051" MODIFIED="1722164440016" POSITION="right">
+<node CREATED="1722162308514" ID="ID_94768051" MODIFIED="1722273262867" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Welcome to the 6 week Iron Mind training. If you've bought this course you may have seen one of my first videos if not the link is going to be below here where I explained the secrets to having an Iron Mind set.
+      Welcome to the 6 week Iron Mind training.
+    </p>
+    <p>
+      If you've bought this course you may have seen one of my first videos if not the link is going to be below here where I explained the <b>secrets</b>&#160; to having an Iron Mind set.
     </p>
     <p>
       <br />
-      So I'm going to preach the virtues of an Iron Mind set. I know all of you bought this because you understand how important it is to have a mindset of Iron, but I'm going to sit here and once I get explained to you how different the world is when you have a mind which isn't warped and affected easily by outside influences.
+      So I'm going to preach the <b>virtues</b>&#160;of an Iron Mind set.
     </p>
     <p>
-      
+      I know all of you bought this because you understand how important it is to have a mindset of Iron, but I'm going to sit here and once I get explain to you how <b>different the world is</b>&#160;when you have a <b>mind</b>&#160; which isn't warped and <b>affected easily</b>&#160;by <b>outside influences.</b>
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722272420235" ID="ID_80134414" MODIFIED="1722272472721" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       You are never going to become a robot.
     </p>
@@ -36,19 +49,43 @@
       You're going to feel emotions.
     </p>
     <p>
-      This is a beautiful thing and making sure that you use them in the correct way. A.
+      This is a beautiful thing and making sure that you <b>use them in the correct way</b>. A.
     </p>
     <p>
-      And B. you do not ever let them stop you doing what you're supposed to do.
+      And B. you <b>do not ever let them stop you doing what you're supposed to do</b>.
     </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1722272473910" ID="ID_907507482" MODIFIED="1722273379939" POSITION="right" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       I say to people often I haven't felt like going to the gym in two years.
     </p>
     <p>
-      I'm wearing my gym clothes right now. I just finished training.
+      I'm wearing my gym clothes right now.
     </p>
     <p>
-      I haven't felt like training in two years. I after 10 years of professional fighting after giving my life to exercise genuinely.
+      I just finished training.
+    </p>
+    <p>
+      I haven't felt like training in two years.
+    </p>
+    <p>
+      I after 10 years of professional fighting after giving my life to exercise genuinely.
     </p>
     <p>
       I have not woke up and felt like oh I really want to train.
@@ -60,26 +97,26 @@
       That's why I retired from fighting,
     </p>
     <p>
-      but I have still gone and I have still trained regardless of how I feel.
-    </p>
-    <p>
-      
+      but I have still gone and I have still trained<b>&#160;regardless of how I feel.</b>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1722164445586" ID="ID_202311321" MODIFIED="1722164683072" POSITION="right">
+<node CREATED="1722164445586" ID="ID_202311321" MODIFIED="1722273524813" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      So this is one of the tenets and there's going to be a lot of things you're going to learn of an iron mindset.
+      So this is <b>one of the tenets</b>&#160;and there's going to be a lot of things you're going to learn of an iron mindset.
     </p>
     <p>
-      You're going to need to not let your feelings affect you and sometimes to do the complete opposite of how you feel.
+      <b>Its the ability to not let your feelings affect you and sometimes to do the complete opposite of how you feel. </b>
+    </p>
+    <p>
+      
     </p>
     <p>
       Because you're not going to very often feel like working hard.
@@ -108,6 +145,16 @@
     <p>
       Regardless of whether I'm motivated or not.
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722273526090" ID="ID_1715472565" MODIFIED="1722273592067" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       
     </p>
@@ -118,7 +165,10 @@
       Because that's all life is and that's all the world is.
     </p>
     <p>
-      Life is just getting things done, doing the right things, doing the important things, making sure they're done efficiently and thoroughly so that you live the best possible life.
+      <b>Life is just getting things done, doing the right things, doing the important things,</b>&#160;
+    </p>
+    <p>
+      making sure they're done efficiently and thoroughly so that you live the best possible life.
     </p>
     <p>
       It's as simple as that. It's not particularly complicated.
@@ -127,7 +177,7 @@
       
     </p>
     <p>
-      A lot of the lessons that you would need to learn I gave out in my free video.
+      A lot of the lessons that you would need to learn<b><i><u>&#160;I gave out in my free video.</u></i></b>
     </p>
     <p>
       So if you've not seen that video once again the link is below.
@@ -139,16 +189,19 @@
       And this six week training is going to be about exercises you can do to teach yourself slowly over time to put together a mindset that prevents you from failure.
     </p>
     <p>
-      Because if you have a mindset that doesn't allow you to fail, then you're simply going to win. There's no other option. So that's what this is all about.
+      Because if you have a mindset that doesn't allow you to fail, then you're simply going to win.
     </p>
     <p>
-      
+      There's no other option.
+    </p>
+    <p>
+      So that's what this is all about.
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1722164688889" ID="ID_635503810" MODIFIED="1722164960982" POSITION="right">
+<node CREATED="1722164688889" ID="ID_635503810" MODIFIED="1722273873297" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -164,10 +217,10 @@
       I've never been one of them people. I don't believe in motivation inspiration.
     </p>
     <p>
-      I don't believe in that crap.
+      <b>I don't believe in that crap.</b>
     </p>
     <p>
-      I don't believe that you need motivation to get things done.
+      <b>I don't believe that you need motivation to get things done.</b>
     </p>
     <p>
       I'm not going to sit here and just talk a whole bunch of motivational things to make you feel good.
@@ -178,14 +231,14 @@
     <p>
       What I'm going to do is I'm going to tell you the things I always did that allowed me to put together the mindset I currently have.
     </p>
-    <p>
-      
-    </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1722164965142" ID="ID_321040335" MODIFIED="1722165175775" POSITION="right">
+<node COLOR="#ff0000" CREATED="1722273882685" ID="ID_1299123804" MODIFIED="1722273893459" POSITION="right" TEXT="STARTS HERE">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1722164965142" ID="ID_321040335" MODIFIED="1722273980306" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -212,6 +265,19 @@
     <p>
       So you want to be the good guy in your story.
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722273981697" ID="ID_596177587" MODIFIED="1722274034301" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
+    </p>
     <p>
       In every, I've said this before, actually, as a man, life is going to be difficult.
     </p>
@@ -234,6 +300,28 @@
       And if you understand that <b>you're suffering because you're a hero, then the suffering begins to make sense. </b>
     </p>
     <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274035579" ID="ID_1572041851" MODIFIED="1722274100667" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
+    </p>
+    <p>
       So you can be sitting here right now.
     </p>
     <p>
@@ -249,7 +337,7 @@
       I'm struggling there.
     </p>
     <p>
-      You can feel sorry for yourself or you can say, yeah, my woman doesn't respect me. I'm struggling. I can't make money. But you know what?
+      <b>You can feel sorry for yourself or you can say,</b>&#160;yeah, my woman doesn't respect me. I'm struggling. I can't make money. But you know what?
     </p>
     <p>
       That's because I'm a fucking superhero.
@@ -264,7 +352,23 @@
       These are the tests and the trials and tribulations I have to go through to become someone.
     </p>
     <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274101925" ID="ID_1704479191" MODIFIED="1722274156828" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
       Every single male superhero went through a whole ton of shit before he became superhero.
+    </p>
+    <p>
+      
     </p>
     <p>
       You've seen the Batman movies.
@@ -281,6 +385,16 @@
     <p>
       
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274110114" ID="ID_1156297638" MODIFIED="1722274133082" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       So right now, you have to <b>understand</b>&#160;that you're the hero in this movie.
     </p>
@@ -300,10 +414,13 @@
       
     </p>
     <p>
-      So be happy that you're struggling because that's important.
+      <b><i><u>So be happy that you're struggling because that's important. </u></i></b>
     </p>
     <p>
-      That's the first thing.
+      <b><i><u>That's the first thing.</u></i></b>
+    </p>
+    <p>
+      
     </p>
     <p>
       
@@ -312,29 +429,41 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1722165179146" ID="ID_656385949" MODIFIED="1722165700296" POSITION="right">
+<node COLOR="#ff0000" CREATED="1722274163488" ID="ID_87116244" MODIFIED="1722274170180" POSITION="right" TEXT="THE SECOND THING">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1722165179146" ID="ID_656385949" MODIFIED="1722274247294" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      The second thing is there has to be a villain.
+      The <b>second thing</b>&#160;is there has to be a villain.
     </p>
     <p>
-      Now most people think their villain is someone else.
+      <i><u><b>Now most people think their villain is someone else.</b></u></i>
     </p>
     <p>
-      You see this all the time. The villains opposite the hero.
+      You see this all the time.
+    </p>
+    <p>
+      The villains opposite the hero.
     </p>
     <p>
       So if you're sitting at home and you haven't got much money and you're broke and you're pissed off and you're depressed and you look at me and I have four super cars and all these girls.
     </p>
     <p>
-      I'm traveling the world. I go everywhere I want.
+      I'm traveling the world.
+    </p>
+    <p>
+      I go everywhere I want.
     </p>
     <p>
       <b>You may think I'm your villain. </b>
+    </p>
+    <p>
+      
     </p>
     <p>
       People look at other people and saying, oh, that guy has this.
@@ -343,16 +472,41 @@
       This guy has this and they become envious and I think that's the villain.
     </p>
     <p>
-      That's not true.
+      <b>That's not true. </b>
     </p>
     <p>
-      That's not the case because every single person has different circumstances.
+      
     </p>
     <p>
-      There are things you have that I don't have and the things I have that you don't have. So I may have had a genetic gift over you, for example, because I'm a fantastic kickboxer.
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274248301" ID="ID_1318652634" MODIFIED="1722274340458" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
     </p>
     <p>
-      But you may have been born more wealthy than me. I was born in a very, very poor family.
+      That's not the case because every single person has<b><u>&#160;different circumstances.</u></b>
+    </p>
+    <p>
+      <u><i><b>There are things you have that I don't have and the things I have that you don't have.</b></i></u>&#160;
+    </p>
+    <p>
+      So I may have had a genetic gift over you, for example, because I'm a fantastic kickboxer.
+    </p>
+    <p>
+      But you may have been born more wealthy than me.
+    </p>
+    <p>
+      I was born in a very, very poor family.
     </p>
     <p>
       So I had advantages and disadvantages.
@@ -361,13 +515,35 @@
       You had advantages and disadvantages.
     </p>
     <p>
-      So comparing yourself to other people is asinine and it's the name because it's not a level fair playing ground.
+      So comparing yourself to other people is asinine and it's the name <b><i><u>because it's not a level fair playing ground. </u></i></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274341985" ID="ID_1095627970" MODIFIED="1722274369566" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
     </p>
     <p>
       There are some people who are born to millionaire parents who are gorgeous, model good looking and have six packs without trying.
     </p>
     <p>
-      Some people are lucky like that. That's just how it is.
+      Some people are lucky like that.
+    </p>
+    <p>
+      That's just how it is.
     </p>
     <p>
       So comparing yourself to these people is not going to help you.
@@ -376,8 +552,18 @@
       Your villain is nobody else.
     </p>
     <p>
-      <b>Your villain is someone you're going to create and you're going to create your villain because he's going to motivate you to be the most powerful hero you can possibly be. </b>
+      <b>Your villain is someone you're going to create and you're going to create your villain <u><i>because he's going to motivate you</i></u>&#160;to be the most powerful hero you can possibly be. </b>
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274370254" ID="ID_217329705" MODIFIED="1722274418736" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       
     </p>
@@ -385,7 +571,7 @@
       So you're going to create your villain.
     </p>
     <p>
-      And this is the task for the first week.
+      <b><u>And this is the task for the first week.</u></b>
     </p>
     <p>
       This is a six week training course.
@@ -394,17 +580,36 @@
       And over each week you have a very important task.
     </p>
     <p>
-      And the task for this week is to create your villain.
+      And the task for this week is to <b>create your villain.</b>
     </p>
     <p>
-      To make sure that there was no disadvantages involved, your villain is going to be a clone of you.
+      To make sure that there was no disadvantages involved, your villain is going to be a <b>clone of you</b>.
     </p>
     <p>
       But what your villain is going to have is he's going to have some things you don't have.
     </p>
     <p>
-      And your villain is going to be the person who basically without requirement for motivation, without requirement, without being no matter how he feels that day or how stressed he is from work, regardless of what happens to him, your villain is going to be the guy who always does exactly what he wants to do.
+      And your villain is going to be the person <b><u>who basically without requirement for motivation, without requirement, without being no matter how he feels that day or how stressed he is from work, regardless of what happens to him, your villain is going to be the guy who always does exactly what he wants to do.</u></b>
     </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274419498" ID="ID_1122514067" MODIFIED="1722274499178" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       
     </p>
@@ -424,7 +629,7 @@
       
     </p>
     <p>
-      Your villain is going to be the guy who asks for a razor work.
+      Your villain is going to be the guy who asks for a raise at work.
     </p>
     <p>
       
@@ -433,7 +638,10 @@
       Your villain is going to be the guy who does everything he wants.
     </p>
     <p>
-      Regardless of how he feels, regardless of if he's not motivated or not, regardless of he's shy to talk that girl or people are watching or his ankle hurts, he doesn't want to go to the gym, whatever.
+      Regardless of how he feels, regardless of if <font color="#6666ff"><b>he's not motivated or not</b></font>, regardless of he's shy to talk that girl or people are watching or his ankle hurts, he doesn't want to go to the gym, whatever.
+    </p>
+    <p>
+      
     </p>
     <p>
       Or his boss is, he thinks his boss is going to fire him, your villain is that dude who does anything he wants to do.
@@ -441,14 +649,24 @@
     <p>
       
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274499929" ID="ID_1427535303" MODIFIED="1722274651563" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       
     </p>
     <p>
-      So for this week you have to sit and you have to make a list of all the things you have to sit there and say, well I did everything I want to do.
+      So for this week you have to sit and you have to <b>make a list </b>of all the things you have to sit there and say, well I did everything I want to do.
     </p>
     <p>
-      If I were to be the best version of myself possible, what would I do?
+      <b><i><u><font color="#cc0000">If I were to be the best version of myself possible, what would I do?</font></u></i></b>
     </p>
     <p>
       
@@ -457,7 +675,10 @@
       Okay, well I'd go to the gym every day. I get up at 6 a.m. and I'd go to the gym every day.
     </p>
     <p>
-      You write that down. I'd approach every beautiful girl I ever see and I'd introduce myself and try and get their Instagram on their number.
+      You write that down.
+    </p>
+    <p>
+      I'd approach every beautiful girl I ever see and I'd introduce myself and try and get their Instagram on their number.
     </p>
     <p>
       You'd write that down.
@@ -496,14 +717,27 @@
       He reads books right now.
     </p>
     <p>
+      
+    </p>
+    <p>
       And you have to make a list.
     </p>
     <p>
-      Now this list at first should be easy for you, but then you're going to get to about seven or eight things you're going to stop.
+      Now this list at first should be easy for you, but then you're going to get to about <b><i><u>seven or eight things you're going to stop.</u></i></b>
     </p>
     <p>
       No, this list needs to be <b>25 to 30 points long, minimum. </b>
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274622383" ID="ID_1456830313" MODIFIED="1722274702665" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       
     </p>
@@ -520,13 +754,13 @@
       He goes up to beautiful girls, etc, etc, etc. 25 are 30 points long,
     </p>
     <p>
-      because this is going to be a come-your-enemy for the next six weeks of training.
+      because this is going to become-your-enemy for the next six weeks of training.
     </p>
     <p>
       
     </p>
     <p>
-      You want to become a hero, you need someone to battle against.
+      You want to become a hero, <b>you need someone to battle against</b>.
     </p>
     <p>
       This is who you're battling against.
@@ -541,6 +775,19 @@
       
     </p>
     <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274704355" ID="ID_1581393541" MODIFIED="1722274847474" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
       So this is who your villain is going to be.
     </p>
     <p>
@@ -550,10 +797,10 @@
       You have to put genuine effort into this.
     </p>
     <p>
-      You have to imagine what he looks like, imagine how he walks, imagine how he talks, imagine what people think when they see him.
+      You have to imagine what he looks like, <b>imagine</b>&#160;how he walks, <b>imagine</b>&#160; how he talks, <b>imagine</b>&#160;what people think when they see him.
     </p>
     <p>
-      Imagine how different you would be if you had been going to the gym every single day for an hour and a half, every single day, for the last two, three, four years.
+      <b>Imagine</b>&#160;how different you would be if you had been going to the gym every single day for an hour and a half, every single day, for the last two, three, four years.
     </p>
     <p>
       Imagine it.
@@ -562,10 +809,16 @@
       Imagine how different people would look at you, imagine how different females would treat you if you were a jack like that guy would be.
     </p>
     <p>
-      You have to sit and you have to put down all these qualities, and then once the qualities are there, 25 or 30 minimum, then you have to imagine what kind of person this is.
+      You have to sit and you have to put down all these qualities, and then once the qualities are there, 25 or 30 minimum, <b><i><u>then you have to imagine </u></i></b>what kind of person this is.
+    </p>
+    <p>
+      
     </p>
     <p>
       You have to imagine what he looks like, what he talks like, what he thinks like. Imagine how he views the world, because this is who you're going to be battling against.
+    </p>
+    <p>
+      
     </p>
     <p>
       So you have to put genuine effort into constructing this person and understanding this person.
@@ -573,8 +826,24 @@
     <p>
       
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274848689" ID="ID_129169936" MODIFIED="1722274902747" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
-      The reason I'm saying do this, because this is what motivates me every single day.
+      
+    </p>
+    <p>
+      <b><i><u>The reason I'm saying do this, because this is what motivates me every single day. </u></i></b>
+    </p>
+    <p>
+      
     </p>
     <p>
       When I was training for a fight, the reason I'd always go trains, because I knew my enemy was training.
@@ -584,6 +853,9 @@
     </p>
     <p>
       But when I stopped fighting professionally, I thought, well, what enemy do I have? And I realized I had to create my own.
+    </p>
+    <p>
+      
     </p>
     <p>
       So when I don't feel like going to the gym, I imagine I've built my own enemy.
@@ -598,11 +870,24 @@
       And he's a, he would be an impossible, nearly impossible person to be.
     </p>
     <p>
+      
+    </p>
+    <p>
       But when I sit and I don't feel like going to the gym, I know my enemy's training,
     </p>
     <p>
       because he trains no matter what, regardless of how he feels, regardless of he's pissed off, or if there's traffic or it's raining or he's tired, my enemy trains.
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274903634" ID="ID_1897098380" MODIFIED="1722274973835" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       
     </p>
@@ -619,7 +904,13 @@
       
     </p>
     <p>
-      So when I understood who I was truly battling against, and you have two choices, you either rise up to try and take him on, or you become a little pussy. You have the choice.
+      <b>So when I understood who I was truly battling against, and you have two choices, you either rise up to try and take him on, or you become a little pussy</b>.
+    </p>
+    <p>
+      You have the choice.
+    </p>
+    <p>
+      
     </p>
     <p>
       Do I want to lose to this man? This man I've created, and I've built, do I want to lose to him, or do I want to beat him or compete with him?
@@ -628,8 +919,30 @@
       
     </p>
     <p>
-      And you have to make a choice, and you sit there and go, well, I know that the person I created in my mind, my arch nemesis would go over there, and he talked to all the girls, and he'd fuck two of them. That alone won.
+      And you have to make a choice, and you sit there and go, well, I know that the person I created in my mind, my arch nemesis would go over there, and he talked to all the girls, and he'd fuck two of them.
     </p>
+    <p>
+      Let alone one.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1722274974554" ID="ID_245831187" MODIFIED="1722275030752" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       
     </p>
@@ -652,10 +965,13 @@
       
     </p>
     <p>
-      And the crazy thing about all of this is that this person is you.
+      <b><i><u>And the crazy thing about all of this is that this person is you. </u></i></b>
     </p>
     <p>
-      This person is you.
+      <b><i><u>This person is you. </u></i></b>
+    </p>
+    <p>
+      
     </p>
     <p>
       It's just you with a little bit of a different path or a different take on life.
@@ -667,13 +983,10 @@
       It's you who's the person who does whatever he's supposed to do regardless of how he feels.
     </p>
     <p>
+      
+    </p>
+    <p>
       <b>It's you with an iron mind. </b>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      
     </p>
     <p>
       
@@ -682,7 +995,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1722165701293" ID="ID_323130630" MODIFIED="1722165943330" POSITION="right">
+<node CREATED="1722165701293" ID="ID_323130630" MODIFIED="1722275215894" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -734,6 +1047,9 @@
       So I have to go to the gym.
     </p>
     <p>
+      
+    </p>
+    <p>
       Oh yeah, but you know, I'm tired.
     </p>
     <p>
@@ -750,6 +1066,9 @@
     </p>
     <p>
       In every single facet, I still do it to this day.
+    </p>
+    <p>
+      
     </p>
     <p>
       I compare my bank balance to this guy, and he's killing me.
@@ -849,9 +1168,6 @@
     </p>
     <p>
       It's going to be far more difficult to stop you doing what you need to do in the future.
-    </p>
-    <p>
-      
     </p>
   </body>
 </html>
