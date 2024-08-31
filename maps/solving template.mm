@@ -24,12 +24,14 @@
       i should take ownership of this life and <b>stop escaping</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1721978899820" ID="ID_1583949744" MODIFIED="1721978899820" TEXT=""/>
 <node CREATED="1721978900587" ID="ID_781145793" MODIFIED="1721978926799" TEXT="bhai yaar kai scene aahe haan kai kaam nai hot aahe"/>
 </node>
 </node>
+<node CREATED="1722360897504" ID="ID_252840958" MODIFIED="1722360913795" POSITION="right" TEXT="tar scene bagh kai aahe basically tech aahe ki dont give up "/>
+<node CREATED="1722360915162" ID="ID_125367505" MODIFIED="1722360945181" POSITION="right" TEXT="tu yevade divas nusta consistently yoga karat aahe te pan 15mins roj raatri ani techa tula yevada benefits milat aahet "/>
+<node CREATED="1722360945826" ID="ID_353631732" MODIFIED="1722360963470" POSITION="right" TEXT="tar hech vichaar kar bc ki kiti bhaari goshta aahe hi "/>
 </node>
 </map>
